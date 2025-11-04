@@ -11,7 +11,7 @@ A minimal Django project that models **Products**, **Categories**, and **Tags**,
 
 ```bash
 pip install pipenv
-pipenv install "django>=5.0,<6.0"
+pipenv install django
 pipenv shell
 
 # create DB
